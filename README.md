@@ -1,10 +1,12 @@
-[![MasterHead](https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif)](https://github.com/vaibhav-bhosale1)]
+[![MasterHead](https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif)](https://github.com/vaibhav-bhosale1)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Bhosale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-bhosale1" alt="vaibhav-bhosale1" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-bhosale1&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavbhosale" /> </p>
 
 - 📫 How to reach me **textmevaibhav@gmail.com**
 
