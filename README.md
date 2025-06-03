@@ -11,11 +11,15 @@
 
 ## 🚀 Work Experience  
 
-### **Bluestock Fintech** (06/2024 - 07/2024)  
+### *ndian Air Force (9 BRD), Pune** (Jan 2025- June 2025)  
 #### **SDE Intern**  
-- Developed **dynamic and responsive** web pages using **React.js** and **Tailwind CSS**, enhancing UI/UX experience and increasing user engagement by **30%**.  
-- Led the development of **four customer-centric features**, improving usability and backend integration.  
-- Worked closely with **product and engineering teams** to ensure smooth deployment and performance optimization.  
+-  Developed a React-based interface to display real-time thermal and visual inspection results, integrating AI model
+ predictions (KNN, SVM, Autoencoder) via REST APIs to dynamically render defect overlays across 20+ PCB
+ samples.
+-  Deployed the frontend on Jetson Nano & Raspberry Pi, integrating it with the inspection pipeline to enable faster
+ defect validation and reduce manual inspection time by 30%
+-  Implemented advanced state management and real-time image rendering in the React interface, enabling seamless
+ overlay of AI-based defect results during live inspections.
 
 ---
 
