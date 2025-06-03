@@ -11,7 +11,7 @@
 
 ## 🚀 Work Experience  
 
-### *Indian Air Force (9 BRD), Pune** (Jan 2025- June 2025)  
+### *Indian Air Force (9 BRD), Pune* (Jan 2025- June 2025)  
 #### **SDE Intern**  
 -  Developed a React-based interface to display real-time thermal and visual inspection results, integrating AI model
  predictions (KNN, SVM, Autoencoder) via REST APIs to dynamically render defect overlays across 20+ PCB
