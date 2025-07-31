@@ -23,15 +23,12 @@
 
 ---
 
-## 🛠 Skills  
+## 🛠 Skills
 
-- **Programming Languages:** C++, Java, JavaScript, Python, SQL  
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Version Control:** Git, GitHub  
-- **AI/ML:** TensorFlow, OpenAI API  
-
+* **Programming Languages:** C++, Java, JavaScript, Python
+* **Technologies/Frameworks:** Node.js, Express.js, React.js, Angular, Tailwind CSS, Next.js, FastAPI, Langchain
+* **DevOps & Cloud Tools:** AWS, Docker, Jenkins, Ansible, Git, GitHub Actions, JIRA
+* **Databases:** MongoDB, PostgreSQL, MySQL
 ---
 
 ## 🎓 Education  
